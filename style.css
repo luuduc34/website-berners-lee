@@ -38,11 +38,26 @@ a.sfy{
     color: #ffffff;
 }
 
-a.icon{
+/* a.icon{
     text-decoration: none;
     color: #7e7d80;
     font-weight: 600;
     opacity: 0.4;
+} */
+
+a.icon {
+    /* background-color: #f4511e; */
+    border: none;
+    color: rgb(92, 86, 86);
+    text-decoration: none;
+    color: #7e7d80;
+    font-weight: 600;
+    opacity: 0.4;
+    transition: 0.3s;
+  }
+  
+a.icon:hover {
+    opacity: 1
 }
 section{
     margin-bottom: 20px;
