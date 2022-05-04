@@ -48,12 +48,12 @@ a.sfy{
 a.icon {
     /* background-color: #f4511e; */
     border: none;
-    color: rgb(92, 86, 86);
+    /* color: rgb(92, 86, 86); */
     text-decoration: none;
     color: #7e7d80;
     font-weight: 600;
     opacity: 0.4;
-    transition: 0.3s;
+    transition: 0.5s;
   }
   
 a.icon:hover {
