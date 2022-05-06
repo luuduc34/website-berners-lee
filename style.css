@@ -58,7 +58,7 @@ section{
     border-radius: 5px;
 }
 
-.tim{
+#tim{
     text-align: center;    
 }
 
@@ -87,7 +87,7 @@ i{
     margin-bottom: 13px;
 }
 
-#icons{
+#social{
     text-align: center;    
 }
 
@@ -129,8 +129,7 @@ h3{
     background-color: #dd5555;
     padding: 8px 10px;    
     border-radius: 5px;
-    color: #ffffff;
-    
+    color: #ffffff;    
 }
 
 article{
