@@ -1,4 +1,4 @@
-# Flexbox-minesweeper
+# Website Tim Berners-Lee
 
 [Here is the link to Github pages](https://luuduc34.github.io/website-berners-lee/)
 
